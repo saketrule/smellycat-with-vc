@@ -1,7 +1,7 @@
 # SmellyCat
 
 SmellyCat is a simple tool that detects smells in your classes.
-The tool is based on Maurício Aniche's PhD thesis. 
+The tool is extension modified based on Maurício Aniche's work (https://github.com/mauricioaniche). 
 
 Currently, we only support two architectures: Spring MVC and Android.
 In Spring MVC, we evaluate the quality of your `Controllers`, 
